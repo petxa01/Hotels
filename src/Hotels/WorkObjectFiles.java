@@ -1,3 +1,5 @@
+package Hotels;
+
 
 import java.io.DataInputStream;
 import java.io.DataOutputStream;
